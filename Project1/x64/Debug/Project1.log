@@ -1,0 +1,8 @@
+﻿  源.cpp
+d:\opencv3.1\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv3.1\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv3.1\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv3.1\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\乔宇\硕士毕业论文\代码\测距\不错的百分之94\project1\project1\源.cpp(104): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Project1.vcxproj -> E:\乔宇\硕士毕业论文\代码\测距\不错的百分之94\Project1\x64\Debug\Project1.exe
+  Project1.vcxproj -> E:\乔宇\硕士毕业论文\代码\测距\不错的百分之94\Project1\x64\Debug\Project1.pdb (Partial PDB)
